@@ -25,4 +25,8 @@ urlpatterns = [
 #from mysite.views import hello
 
 #urlpatterns = patterns('',
+<<<<<<< HEAD
 #    ('^hello/$', hello),
+=======
+#    ('^hello/$', hello),
+>>>>>>> dc8941e08a69160024a8c77f5228f8bba595ebda
