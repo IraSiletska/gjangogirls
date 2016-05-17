@@ -26,4 +26,3 @@ urlpatterns = [
 
 #urlpatterns = patterns('',
 #    ('^hello/$', hello),
-)
